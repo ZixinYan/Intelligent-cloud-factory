@@ -1,0 +1,17 @@
+{
+"dataType":"Product",
+"productId":"1",
+ "productCode":"10086",
+ "productName":"泉山夫农",
+ "productType":"矿泉水",
+ "productStandard":"瓶",
+ "productbriefIntroduction":"水中的大自然"
+} /{
+"dataType":"Product",
+"productId":"2",
+ "productCode":"1145",
+ "productName":"电脑",
+ "productType":"电脑",
+ "productStandard":"台",
+ "productbriefIntroduction":"电脑"
+} /

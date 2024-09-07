@@ -1,0 +1,45 @@
+{
+"dataType":"Device",
+"deviceId":"2",
+ "deviceName":"113",
+ "deviceCode":"大电脑",
+ "deviceType":"电脑",
+ "deviceStandard":"台",
+ "deviceState":"关机",
+ "deviceIntroduction":"数控操作",
+ "deviceRent":"未被租用",
+ "deviceFactory":""
+} /{
+"dataType":"Device",
+"deviceId":"3",
+ "deviceName":"114",
+ "deviceCode":"生产线",
+ "deviceType":"生产线",
+ "deviceStandard":"条",
+ "deviceState":"开机",
+ "deviceIntroduction":"生产设备",
+ "deviceRent":"已被租用",
+ "deviceFactory":"张三"
+} /{
+"dataType":"Device",
+"deviceId":"4",
+ "deviceName":"115",
+ "deviceCode":"清洗机",
+ "deviceType":"清洗机",
+ "deviceStandard":"台",
+ "deviceState":"关机",
+ "deviceIntroduction":"清洗设备",
+ "deviceRent":"已被租用",
+ "deviceFactory":"王五"
+} /{
+"dataType":"Device",
+"deviceId":"5",
+ "deviceName":"116",
+ "deviceCode":"机床",
+ "deviceType":"机床",
+ "deviceStandard":"台",
+ "deviceState":"关机",
+ "deviceIntroduction":"精准操控",
+ "deviceRent":"未被租用",
+ "deviceFactory":""
+} /

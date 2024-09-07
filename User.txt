@@ -1,0 +1,30 @@
+{
+"dataType":"User",
+ "userName":"taoxu",
+ "password":"123456",
+ "realName":"taoxu",
+ "email":"2364107090@qq.com",
+ "type":"系统管理员"
+} /{
+"dataType":"User",
+ "userName":"张三",
+ "password":"123456",
+ "realName":"张三",
+ "email":"1234567",
+ "type":"云工厂"
+} /{
+"dataType":"User",
+ "userName":"李四",
+ "password":"123456",
+ "realName":"李四",
+ "email":"1234567",
+ "type":"云工厂"
+} /
+{
+"dataType":"User",
+ "userName":"刘六",
+ "password":"123456",
+ "realName":"六六",
+ "email":"123456",
+ "type":"经销商"
+} /
